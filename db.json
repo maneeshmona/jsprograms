@@ -1,0 +1,12 @@
+[{
+"fname" : "maneesh",
+"age": 25,
+"gender":"male",
+"status":"unmarried"
+},
+{
+"fname":"eshaq",
+"age":25,
+"gender": "male"
+}]
+
